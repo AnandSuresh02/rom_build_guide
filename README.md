@@ -21,6 +21,3 @@ If you already have these:
 5. [**Lets build it!**](https://github.com/AtlanPrime/customromguide/blob/master/steps/StepFive.md)
 6. [**Upload to SourceForge**](https://github.com/AtlanPrime/customromguide/blob/master/steps/SourceforgeUpload.md)
 
-
-With Love, 
-@AtlanPrime
