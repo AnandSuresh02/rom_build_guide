@@ -4,7 +4,7 @@ If you already have these:
 * A linux Environment (Recommended : Ubuntu 20.04 LTS)
 * A decent Internet Connection (Better if it's a 1Mb/S plan at the least). Because ROM sources could be 16 GB approx. even when shallow cloned.
 * CPU: 4 core 8 thread is the bare minimum or else it takes an eternity to build
-* RAM: 8 GB Minimum (+ ZRAM + SWAP optional and it is better to have 16 Gigs of RAM afterall)
+* RAM: 16 GB Minimum (+ ZRAM + SWAP optional and it is better to have more than 16 Gigs of RAM afterall)
 * Storage: SSD is better and it will build if you have HDD too.. 250GB is a decent amount of space 
 * Some Linux knowledge and Basic ideas about Git.
 * You need to have the TREES.. ( Device Tree , Kernel Tree {Or use a prebuilt one - not recommended} , Vendor Tree {And A Common Tree if available})
